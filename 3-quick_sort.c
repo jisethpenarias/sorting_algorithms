@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * selection_sort - sorts an array of integers in ascending order
+ * quick_sort - sorts an array of integers in ascending order
  *
  * @array: pointer to an array of int
  * @size: size of array
